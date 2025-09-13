@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangerakash1" alt="rangerakash1" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App and AI-ML Applications**
+- 🔭 I’m currently working on **Angular 7 , Angular 19 And ASP.NET**
 
-- 🌱 I’m currently learning **Docker, NextJS and NodeJS**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 👯 I’m looking to collaborate on **on projects in the realms of software development engineering, open source**
 
